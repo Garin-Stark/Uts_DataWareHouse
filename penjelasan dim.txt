@@ -1,0 +1,15 @@
+dim_pembeli
+menjelaskan beberapa informasi tentang pembeli yang akan melakukan checkout
+seperti id pembeli yang menjelaskan urutan number pembeli kemudian detail info nama 
+pembeli, lalu seperti untuk data pelengkap memasukan kota informasi pembeli
+
+dim_order
+mengambil data infomarsi tanggal pembelian dan penjualan serta mengetahui
+nama kendaraannya yang diambil dari vendor dari tabel produk juga mengetahui
+nama brand kendaraan seperti iklan di tabel produksi line
+
+dim_pembayaran 
+mengambil data pembayaran yang diambil dari tabel produk dan custumer kemudian
+chechk number yang dikodekan untuk mengetahui
+nama dan brand dari barang yang dicari lalu disini dapat dilihat customer number yang berfungsi untuk mengetahu custumer 
+membeli barang yang mana hari apa dan tanggal berapa
